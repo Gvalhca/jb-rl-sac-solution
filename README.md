@@ -1,7 +1,5 @@
 ## Soft Actor-Critic for BipedalWalker-v3
 
-------
-
 This repository is a solution to JetBrains Autumn 2021 internship application task "Проекты в области Reinforcement
 Learning
 "
